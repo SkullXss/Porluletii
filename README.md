@@ -19,7 +19,12 @@ git clone https://github.com/SkullXss/Porluletii/
 cd Porluletii/
 chmod +x *
 ```
-
+Para Baixar O arquivo direto.(Tera que fazer isso, o outro é so para Updates):
+```bash
+wget https://raw.githubusercontent.com/SkullXss/Porluletii/main/porluletii.sh
+chmod +x porluletii.sh
+./porluletii.sh
+```
 ## Utilização
 
 1. Execute o script em um terminal no seu dispositivo Android.
