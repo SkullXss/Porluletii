@@ -1,0 +1,5 @@
+# Ignorar logs de execução do script
+*.log
+
+# Ignorar distribuições Linux instaladas pelo script
+/installed_distros/
