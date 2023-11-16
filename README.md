@@ -18,7 +18,7 @@ Você pode instalar o Porluletii em seu dispositivo Android seguindo estes passo
 curl -O https://github.com/SkullXss/Porluletii/porluletii.sh
 chmod +x porluletii.sh
 ./porluletii.sh
-
+```
 
 ## Utilização
 
